@@ -1,10 +1,7 @@
 ---      
 title:  "git bash 터미널에서 한글 파일명이 깨지는 경우"   
-tag: [git, bash, git-bash, korean, broken, 한글, 파일명, 깨짐, filename]      
-category:
-    - git
-    - git-bash
-    - 한글
+tag: [git, bash, git-bash, korean, broken, 한글, 파일명, 깨짐, filename, broken-korean-filename]      
+category: [git-bash, git, 한글, korean]
 layout: single
 #classes: wide
 toc: true
