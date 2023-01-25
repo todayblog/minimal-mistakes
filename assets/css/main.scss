@@ -7,3 +7,20 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* added by cheolsoo.kim 2023.01.23 */
+html {
+    font-size: 0.75em;
+
+    @include breakpoint($medium) {
+        font-size: 1em;
+    }
+
+    @include breakpoint($large) {
+        font-size: 1em;
+    }
+
+    @include breakpoint($x-large) {
+        font-size: 1em;
+    }
+}
