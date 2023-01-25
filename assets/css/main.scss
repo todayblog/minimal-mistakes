@@ -24,3 +24,8 @@ html {
         font-size: 1em;
     }
 }
+
+/* added by cskim 2023.01.25 */
+.greedy-nav .visible-links a:before {
+    background-color: red;
+  }
