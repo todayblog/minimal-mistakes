@@ -9,11 +9,11 @@ toc_label: "My Table of Contents"
 toc_icon: "cog"
 ---
 
-# Document Information  
+## Document Information  
 - docNo: 20230125-1708  
 - tag: #shell-script #shell #script #backup  #directory #folder #delete #directory #delete-backup-directory  
   
-# Contents  
+## Contents  
   
 ```bash  
 fn_deleteBackup() {  

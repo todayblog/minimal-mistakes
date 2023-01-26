@@ -9,11 +9,11 @@ toc_icon: "cog"
 ---
 
 
-# Document Information
+## Document Information
 - docNo: 20230126-0926
 - tag: #윈도우11 #휴대폰 #에러 #연결 
 
-# Contents
+## Contents
 
 1. 검색에서 "휴대폰" 입력  
 2. 앱 설정 클릭<br><br>

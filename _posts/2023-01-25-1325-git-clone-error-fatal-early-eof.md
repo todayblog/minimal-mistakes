@@ -11,11 +11,11 @@ toc_label: "My Table of Contents"
 toc_icon: "cog"  
 ---    
   
-# Document Information  
+## Document Information  
 - docNo: 20230125-1413  
 - tag: #git #clone #error #rpc #failed #curl #early #eof #fetch-pack  
   
-# Contents  
+## Contents  
   
 아래의 명렁어로 성공함  
 stackoverflow 에서 검색된 여러가지 방법 다해보고 안되었는데 아래 명령어로는 성공했습니다.   

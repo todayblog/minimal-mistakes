@@ -9,11 +9,11 @@ toc_label: "My Table of Contents"
 toc_icon: "cog"
 ---
 
-# Document Information   
+## Document Information   
 - docNo: 20230122-1255   
 - tag: #git #bash #git-bash #korean #broken #한글 #파일명 #깨짐 #filename   
    
-# Contents   
+## Contents   
    
 git bash 터미널창에서 아래의 명령어를 실행하면 됩니다.    
    

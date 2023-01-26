@@ -8,7 +8,7 @@ toc_label: "My Table of Contents"
 toc_icon: "cog"
 ---  
   
-# Welcome  
+## Welcome  
   
 **Hello world**  
 this is my first Jekyll blog post.  
